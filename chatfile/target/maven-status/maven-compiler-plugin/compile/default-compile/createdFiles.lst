@@ -1,0 +1,9 @@
+com\cLbackend\demo\controller\FitnessController.class
+com\cLbackend\demo\service\HealthMetricService.class
+com\cLbackend\demo\entity\HealthMetric.class
+com\cLbackend\demo\controller\HealthMetricController.class
+com\cLbackend\demo\repository\HealthMetricRepo.class
+com\cLbackend\demo\service\FitnessService.class
+com\cLbackend\demo\config\SecurityConfig.class
+com\cLbackend\demo\config\CorsConfig.class
+com\cLbackend\demo\FitnessServiceApplication.class
